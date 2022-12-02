@@ -1,0 +1,31 @@
+.carousel-inner img {
+    height: 300px;
+  }
+
+#abrirVentana{
+    background-color: rgb(62, 4, 112);
+    border: 0ch;
+    color: white;
+}
+.navbar{
+  background-color: rgb(62, 4, 112);
+}
+footer{
+  background-color: rgb(62, 4, 112);
+}
+h1 {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#tituloNav{
+  font-size: 30px; 
+  font-family: Optima;
+}
+#tituloCancion{
+  text-transform: capitalize;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 17px;
+  color: rgb(62, 4, 112);
+}
